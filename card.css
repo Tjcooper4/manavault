@@ -1,0 +1,90 @@
+#card_port {
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+padding: 329px 392px;
+}
+
+#card_container {
+    position: absolute;
+    width: 655px;
+    height: 365px;
+    
+}
+
+#card_image {
+    position: absolute;
+width: 261px;
+height: 365px;
+left: 0px;
+top: 0px;
+
+
+}
+
+#card_name {
+    position: absolute;
+width: 355px;
+height: 69px;
+left: 300px;
+top: 0px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+}
+
+#card_type {
+    position: absolute;
+width: 355px;
+height: 91px;
+left: 300px;
+top: 69px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+
+#card_oracle {
+    position: absolute;
+width: 340px;
+height: 104px;
+left: 300px;
+top: 160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+
+}
+
+#card_flavor {
+    position: absolute;
+width: 355px;
+height: 83px;
+left: 300px;
+top: 264px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #000000;
+}
