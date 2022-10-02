@@ -9,7 +9,9 @@ function App() {
         <span className="title">MANAVAULT</span>
       </div>
       <div className="card-container">
-        <div className="card-container-background"></div>
+        <div className="card-container-background">
+          <h1>Some Text Added</h1>
+        </div>
       </div>
     
     </div>
